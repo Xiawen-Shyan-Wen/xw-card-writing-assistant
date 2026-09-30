@@ -1,4 +1,4 @@
-# 卡片式写作案板 (Xw-Card Writing Assistant)
+# Xw Card Writing Assistant（卡片式写作案板）
 
 A card-based writing board for Obsidian: one card = one scene (INT/EXT + location + day/night, one-line action, +/- emotional shift, > < conflict). Cards can be dragged to swap or insert, batch-selected and moved, acts and columns are adjustable, and everything is written back as plain Markdown — always readable, always portable.
 
@@ -113,7 +113,15 @@ diff-able and portable — no proprietary format, no lock-in.
 3. Click a card to write its action text; click the dot in its top-right corner to edit all fields.
 4. Use "汇总" to export the whole board as text and "自检" to check for missing pieces.
 
-## 更新日志（V1.0.01）
+## 更新日志
+
+### V1.0.02
+
+- 插件显示名改为 **Xw Card Writing Assistant**（官方要求插件名使用基本拉丁字母，中文名会被商城校验拦下）。
+- 许可证确定为 **MIT + Commons Clause**；README 增补英文说明。
+- 移除「卡数检查」功能（每行/总卡数目标、黑洞提示）。
+
+### V1.0.01
 
 - 首个公开发布版本。
 - 卡片式写作案板：一张卡 = 一个场景，支持拖拽互换/插入（插入位置用线表示）、批量多选整组移动、幕/列数可调、幕折叠、幕头备注拖动排序。

@@ -129,6 +129,21 @@ diff-able and portable — no proprietary format, no lock-in.
 - 15 张空白节拍卡 + 自定义节拍模板；「导语」「衔接点」特型节拍卡。
 - 状态灯提示缺项、汇总导出与一键自检；全部写回 Markdown 纯文本。
 
+## 权限与隐私 / Permissions & Privacy
+
+- **完全本地运行**：插件不发起任何网络请求，不收集遥测或统计数据，不向任何服务器发送任何内容。
+- **库内文件枚举**：为了让你在「切换案板文件」「导入模板」时挑选文件，插件会列出你库中 Markdown 文件的**路径**（`vault.getMarkdownFiles`）；它**不读取这些文件的内容**。插件只读写**你明确选定 / 当前打开的那一份案板文件**（以及新建案板时创建的那一个），**不会改动任何其他笔记**。
+- **剪贴板**：只有当你点击汇总弹窗里的「复制」按钮时，插件才把汇总正文**写入**系统剪贴板；它**从不读取**剪贴板内容。
+- **无后台行为**：没有定时任务、没有自动更新机制、不调用任何外部进程或命令行。
+
+Fully local: no network requests, no telemetry or analytics, nothing is ever sent anywhere.
+**Vault file enumeration**: to let you pick a board file (or a template to import), the plugin lists
+the *paths* of Markdown files in your vault; it does not read their contents. It only reads and
+writes the board file you explicitly choose or have open (plus the one it creates when you make a
+new board) - no other note is ever modified. **Clipboard**: the plugin *writes* to the system
+clipboard only when you click the copy button in the summary dialog; it never reads the clipboard.
+No background activity: no timers, no auto-update mechanism, no external processes.
+
 ## 许可证 / License
 
 **MIT License + Commons Clause**

@@ -136,11 +136,12 @@ diff-able and portable — no proprietary format, no lock-in.
 - **免费使用**：任何人都可以免费使用、复制、修改本插件，**包括商业公司把它用在日常工作中**——拿来写剧本、写小说、做开发，都不受限制。
 - **唯一限制：不得出售**。即不得把本插件（或其修改版）作为付费产品或付费服务提供给第三方，包括以收取托管费、咨询费、支持服务费等方式变相收费。
 - 如需超出上述范围的授权，请联系作者：https://github.com/Xiawen-Shyan-Wen
-- 完整条款见仓库根目录的 `LICENSE` 文件。
+- 条款分两份：MIT 正文见 `LICENSE`，Commons Clause 附加条款见 `LICENSE-COMMONS-CLAUSE.txt`（两份合起来即「MIT + Commons Clause」）。
 
-Licensed under the **MIT License with the Commons Clause**. Everyone — including companies,
-for their own internal or commercial work — may use, copy and modify this plugin free of
-charge. The only restriction is that you may not **Sell** the software: you may not provide
-it (or a modified version of it) to third parties as a paid product or service, including via
-fees for hosting, consulting or support. For any use outside those terms, please contact the
-author: https://github.com/Xiawen-Shyan-Wen
+Licensed under the **MIT License** (see `LICENSE`) **with the Commons Clause**
+(see `LICENSE-COMMONS-CLAUSE.txt`). Everyone — including companies, for their own internal or
+commercial work — may use, copy and modify this plugin free of charge. The only restriction is
+that you may not **Sell** the software: you may not provide it (or a modified version of it)
+to third parties as a paid product or service, including via fees for hosting, consulting or
+support. For any use outside those terms, please contact the author:
+https://github.com/Xiawen-Shyan-Wen

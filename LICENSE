@@ -19,35 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-================================================================================
-“Commons Clause” License Condition v1.0
-================================================================================
-
-The Software is provided to you by the Licensor under the License, as defined
-below, subject to the following condition.
-
-Without limiting other conditions in the License, the grant of rights under the
-License will not include, and the License does not grant to you, the right to
-Sell the Software.
-
-For purposes of the foregoing, “Sell” means practicing any or all of the rights
-granted to you under the License to provide to third parties, for a fee or other
-consideration (including without limitation fees for hosting or consulting/
-support services related to the Software), a product or service whose value
-derives, entirely or substantially, from the functionality of the Software. Any
-license notice or attribution required by the License must also include this
-Commons Clause License Condition notice.
-
-Software: 卡片式写作案板 (Xw-Card Writing Assistant)
-License: MIT
-Licensor: Xiawen（夏纹）— https://github.com/Xiawen-Shyan-Wen
-
---------------------------------------------------------------------------------
-中文摘要（仅供理解，不构成条款；条款以英文正文为准）
-
-- 免费使用：任何人都可以免费使用、复制、修改、合并、发布本插件，包括商业公司
-  把它用在日常工作中，以及把它用于任何目的。
-- 唯一限制：不得「出售」本软件——即不得把它（或其修改版）作为付费产品或付费
-  服务提供给第三方，包括以收取托管费、咨询费、支持服务费等方式变相收费。
-- 如需超出上述范围的授权，请联系作者：https://github.com/Xiawen-Shyan-Wen

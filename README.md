@@ -1,8 +1,8 @@
 # 卡片式写作案板 (Xw-Card Writing Assistant)
 
-A card-based four-act writing board for Obsidian: one card = one scene (INT/EXT + location + day/night, one-line action, +/- emotional shift, > < conflict). Cards can be dragged to swap or insert, batch-selected and moved, acts and columns are adjustable, and everything is written back as plain Markdown — always readable, always portable.
+A card-based writing board for Obsidian: one card = one scene (INT/EXT + location + day/night, one-line action, +/- emotional shift, > < conflict). Cards can be dragged to swap or insert, batch-selected and moved, acts and columns are adjustable, and everything is written back as plain Markdown — always readable, always portable.
 
-通用的**卡片式四幕写作案板**：一块板分几幕，每幕钉若干张索引卡，一张卡 = 一个场景（内/外景＋地点＋日夜、一句话动作、＋/－ 情绪转变、＞＜ 冲突）。所有内容写回 Markdown 纯文本，文件永远可读、可迁移。
+通用的**卡片式写作案板**：一块板分几幕，每幕钉若干张索引卡，一张卡 = 一个场景（内/外景＋地点＋日夜、一句话动作、＋/－ 情绪转变、＞＜ 冲突）。所有内容写回 Markdown 纯文本，文件永远可读、可迁移。
 
 ## 功能一览
 
@@ -84,7 +84,7 @@ Obsidian → 设置 → 第三方插件 → 浏览 → 搜索「**卡片式写�
 
 ## English
 
-**About.** A card-based four-act writing board for outlining stories. One card = one scene
+**About.** A card-based writing board for outlining stories. One card = one scene
 (INT/EXT + location + day/night, a one-line action, a +/- emotional shift, a > < conflict).
 Everything is written back into the note as plain Markdown, so your files stay readable,
 diff-able and portable — no proprietary format, no lock-in.
@@ -116,7 +116,7 @@ diff-able and portable — no proprietary format, no lock-in.
 ## 更新日志（V1.0.01）
 
 - 首个公开发布版本。
-- 卡片式四幕写作案板：一张卡 = 一个场景，支持拖拽互换/插入（插入位置用线表示）、批量多选整组移动、幕/列数可调、幕折叠、幕头备注拖动排序。
+- 卡片式写作案板：一张卡 = 一个场景，支持拖拽互换/插入（插入位置用线表示）、批量多选整组移动、幕/列数可调、幕折叠、幕头备注拖动排序。
 - 格式刷刷尺寸、宽/高锁定、新建卡跟随最近调整的尺寸、卡片统一编号（板面视觉顺序）。
 - 15 张空白节拍卡 + 自定义节拍模板；「导语」「衔接点」特型节拍卡。
 - 状态灯提示缺项、汇总导出与一键自检；全部写回 Markdown 纯文本。

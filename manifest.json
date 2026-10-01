@@ -1,9 +1,9 @@
 {
   "id": "xw-card-writing-assistant",
   "name": "Xw Card Writing Assistant",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minAppVersion": "1.4.0",
-  "description": "Xw Card Writing Assistant: a card-based writing board. One card = one scene (INT/EXT, location, day/night, action, +/- emotional shift, > < conflict). Drag to swap or insert; all in plain Markdown.",
+  "description": "A card-based writing board: one card = one scene (INT/EXT, location, day/night, action, +/- emotional shift, > < conflict). Drag to swap or insert, and everything is stored as plain Markdown.",
   "author": "Xiawen（夏纹）",
   "isDesktopOnly": false
 }
